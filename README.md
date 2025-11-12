@@ -12,9 +12,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenofsiqueira&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Principais Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenofsiqueira&repo=brenofsiqueira.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Meus Contatos
 
